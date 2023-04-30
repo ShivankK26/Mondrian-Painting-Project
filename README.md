@@ -33,4 +33,4 @@ To get started, download the source code and just get started. It is built using
 
 Name: Shivank Kapur - shivankkapur2004@gmail.com
 
-Project Link: 
+Project Link: https://shivankk26.github.io/Mondrian-Painting-Project/
